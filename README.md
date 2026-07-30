@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, eu sou a Isabella! 👋✨
+# 안녕하세요, eu sou a Isabella! :computer:
 
 *Cientista de Dados apaixonada por dados, livros e uma boa xícara de café* ☕📚
 
