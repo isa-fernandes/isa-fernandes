@@ -10,10 +10,14 @@
 
 ---
 
-## 🌸 Sobre mim
+## :maple_leaf: Sobre mim
 
-Olá! Sou Isabella, Cientista de Dados de Recife 🌴, com mestrado em Ciência da Computação pela UFPE.  
-Tenho experiência em **Machine Learning, Deep Learning e Visão Computacional** — já publiquei pesquisas em eventos internacionais (fiquei muito feliz de comparecer ao CVPR 2024!) e desenvolvi modelos que automatizam processos em ambientes industriais.
+```
+- Cientista de Dados de Recife 🌴
+- Mestrado em Ciência da Computação pela UFPE
+- Experiência em Deep Learning e Visão Computacional
+- Publiquei em eventos internacionais (fiquei muito feliz de comparecer ao CVPR 2024!)
+```
 
 Quando não estou mergulhada em dados, você me encontra passeando com o **Mochi** 🐶 (meu yorkshire atentado), tomando café e lendo um bom livro, ou descansando no sofá assistindo ao meu dorama favorito 🍫📺.
 
@@ -24,7 +28,7 @@ Quando não estou mergulhada em dados, você me encontra passeando com o **Mochi
 
 ## 🌟 Projetos em Destaque
 
-> *Cada projeto tem sua história — como cada livro na prateleira da Hyunam-dong* 🏮  
+> *Cada projeto tem sua história — como cada livro na prateleira da Livraria Hyunam-dong* 🏮  
 
 <div align="center">
 
