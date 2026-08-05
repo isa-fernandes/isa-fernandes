@@ -24,6 +24,8 @@ Quando não estou mergulhada em dados, você me encontra passeando com o **Mochi
 > *"Mesmo que sejamos nós os criadores do enredo da nossa vida, nos sentimos ameaçados, como se nosso futuro fosse algo imposto, como se já estivesse definido. Mas, na verdade, nada disso é real. O que existe são o aqui e o agora."*  
 > — 📖 **Chocolate quente às quintas-feiras**
 
+Acredito que vou conseguir construir meu futuro através dos meus estudos, e meu objetivo é me tornar uma desenvolvedora sênior com muito orgulho da minha carreira.
+
 ---
 
 ## 🌟 Projetos em Destaque
