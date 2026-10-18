@@ -21,7 +21,7 @@
       - Publiquei em eventos internacionais (fiquei muito feliz de comparecer ao CVPR 2024!)
   </td>
     <td width="50%" valign="middle" align="center">
-      <img src="cherry.gif" width="100%" alt="GIF animado">
+      <img src="cherry.gif" width="260px" alt="GIF animado">
     </td>
   </tr>
 </table>
@@ -44,6 +44,9 @@
 
 <table>
   <tr>
+    <td width="50%" valign="middle" align="center">
+      <img src="cat.gif" width="100%" alt="GIF animado">
+    </td>
     <td width="50%" valign="top">
     <h2>💼 Experiência</h2>
       
@@ -59,9 +62,6 @@
       - Estagiária de Desenvolvimento @ Truewind / Axians (set/2018 – set/2020)
         Sistema de monitoramento de contratos com SQL e OutSystems.
   </td>
-    <td width="50%" valign="middle" align="center">
-      <img src="cat.gif" width="100%" alt="GIF animado">
-    </td>
   </tr>
 </table>
 
