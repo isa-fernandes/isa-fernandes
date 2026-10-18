@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="360px" valign="top">
     <h2>🍁 Sobre mim</h2>
       
       - Cientista de Dados de Recife 🌴
@@ -20,7 +20,7 @@
       - Experiência em Deep Learning e Visão Computacional
       - Publiquei em eventos internacionais (fiquei muito feliz de comparecer ao CVPR 2024!)
   </td>
-    <td width="50%" valign="middle" align="center">
+    <td width="260px" valign="middle" align="center">
       <img src="cherry.gif" width="260px" alt="GIF animado">
     </td>
   </tr>
@@ -44,10 +44,10 @@
 
 <table>
   <tr>
-    <td width="50%" valign="middle" align="center">
+    <td width="200px" valign="middle" align="center">
       <img src="cat.gif" width="100%" alt="GIF animado">
     </td>
-    <td width="50%" valign="top">
+    <td width="420px" valign="top">
     <h2>💼 Experiência</h2>
       
       - Desenvolvedora de Visão Computacional @ Stepps (dez/2024 – mar/2026)
