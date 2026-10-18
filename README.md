@@ -10,16 +10,15 @@
 
 ---
 
-## 🍁 Sobre mim
-
 <table>
   <tr>
     <td width="50%" valign="top">
+    <h2>🍁 Sobre mim</h2>
       
-      - Cientista de Dados de Recife 🌴</li>
-      - Mestrado em Ciência da Computação pela UFPE</li>
-      - Experiência em Deep Learning e Visão Computacional</li>
-      - Publiquei em eventos internacionais (fiquei muito feliz de comparecer ao CVPR 2024!)</li>
+      - Cientista de Dados de Recife 🌴
+      - Mestrado em Ciência da Computação pela UFPE
+      - Experiência em Deep Learning e Visão Computacional
+      - Publiquei em eventos internacionais (fiquei muito feliz de comparecer ao CVPR 2024!)
   </td>
     <td width="50%" valign="middle" align="center">
       <img src="cherry.gif" width="100%" alt="GIF animado">
@@ -43,19 +42,29 @@
 
 ---
 
-## 💼 Experiência
+<table>
+  <tr>
+    <td width="50%" valign="top">
+    <h2>💼 Experiência</h2>
+      
+      - Desenvolvedora de Visão Computacional @ Stepps (dez/2024 – mar/2026)
+        Modelos de deep learning para segmentação e detecção de ações com YOLO, embarcados em Jetson via Docker.
+      
+      - Pesquisadora @ Fade-UFPE / CIn-Samsung (nov/2022 – jul/2024)
+        Reconhecimento de ações em IoT com análise de sinais de sensores nos domínios de tempo e frequência.
+      
+      - Iniciação Científica @ UFRPE (set/2021 – jun/2022)
+        Rastreamento 3D de pedestres com redes neurais de grafos.
+      
+      - Estagiária de Desenvolvimento @ Truewind / Axians (set/2018 – set/2020)
+        Sistema de monitoramento de contratos com SQL e OutSystems.
+  </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="cat.gif" width="100%" alt="GIF animado">
+    </td>
+  </tr>
+</table>
 
-- **Desenvolvedora de Visão Computacional** @ Stepps *(dez/2024 – mar/2026)*  
-  Modelos de deep learning para segmentação e detecção de ações com YOLO, embarcados em Jetson via Docker.
-
-- **Pesquisadora** @ Fade-UFPE / CIn-Samsung *(nov/2022 – jul/2024)*  
-  Reconhecimento de ações em IoT com análise de sinais de sensores nos domínios de tempo e frequência.
-
-- **Iniciação Científica** @ UFRPE *(set/2021 – jun/2022)*  
-  Rastreamento 3D de pedestres com redes neurais de grafos — pesquisa publicada no **VISAPP** 🌍.
-
-- **Estagiária de Desenvolvimento** @ Truewind / Axians *(set/2018 – set/2020)*  
-  Sistema de monitoramento de contratos com SQL e OutSystems.
 
 ---
 
