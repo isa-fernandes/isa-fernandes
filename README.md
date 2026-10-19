@@ -134,11 +134,7 @@
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=isa-fernandes.isa-fernandes)
 
